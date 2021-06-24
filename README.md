@@ -21,7 +21,9 @@
 
 注：SARI越大越好，FKGL越小越好，turk代表turkcorpus数据集，asset代表asset数据集。
 
-通过实验进行对比，我们的模型在turkcorpus数据集上
+通过实验进行对比，我们的模型在asset数据集上SARI优于SOTA结果，FKGL大幅度优于SOTA。
+
+在turkcorpus数据集上，SARI和FKGL略低于SOTA结果。
 
 ## Controable sentence simplification
 
