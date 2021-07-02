@@ -1,0 +1,2 @@
+此文件夹存放的是Bert-classification model文件
+由于文件较大，请于网盘下载
